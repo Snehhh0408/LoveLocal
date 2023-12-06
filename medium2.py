@@ -1,3 +1,9 @@
+#PROJECT DESCRIPTION
+#It iterates through the array, maintaining two candidates and their respective counts. If the current element matches a candidate, it increments its count; otherwise, if a count is zero, it updates the candidate; otherwise, it decrements both counts.
+#It checks if the counts of the candidates exceed the threshold (n/3) and appends the candidates that satisfy this condition to the result list, returning the elements appearing more than n/3 times in the array.
+    
+
+
 def major(nums):
     if not nums:
         return []
