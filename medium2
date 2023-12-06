@@ -1,7 +1,3 @@
-
-
-
-
 def major(nums):
     if not nums:
         return []
