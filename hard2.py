@@ -1,6 +1,7 @@
-//function isPalindrome that checks if a string is a palindrome by comparing it to its reverse using slicing ([::-1])
-//After finding the longest palindrome prefix, it separates the remaining characters (suffix) that are not part of the palindrome.
-//Finally, it concatenates the prefix, the result of the recursive call (middle), and the suffix to form the shortest palindrome by adding characters in front of the given string.
+#PROJECT DESCRIPTION
+#function isPalindrome that checks if a string is a palindrome by comparing it to its reverse using slicing ([::-1])
+#After finding the longest palindrome prefix, it separates the remaining characters (suffix) that are not part of the palindrome.
+#Finally, it concatenates the prefix, the result of the recursive call (middle), and the suffix to form the shortest palindrome by adding characters in front of the given string.
 
 
 
